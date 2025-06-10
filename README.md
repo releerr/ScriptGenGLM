@@ -15,8 +15,8 @@ tasks:
 # SageGen
 
 - 模型用于中文古装类型短剧剧本生成，用户通过与模型交互生成剧本。
-- modelscope: [notnot/ScriptGen](https://modelscope.cn/models/notnot/ScriptGen)
-- huggingFace: [Releer/Sage_AncientCostumeShortPlayScriptGenerator]https://huggingface.co/Releer/Sage_AncientCostumeShortPlayScriptGenerator
+- modelscope: [notnot/ScriptGen] (https://modelscope.cn/models/notnot/ScriptGen)
+- huggingFace: [Releer/Sage_AncientCostumeShortPlayScriptGenerator] https://huggingface.co/Releer/Sage_AncientCostumeShortPlayScriptGenerator
 
 
 
